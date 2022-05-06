@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/style.css"],"names":[],"mappings":"AAAA;;IAEI,SAAS;IACT,UAAU;AACd;AACA;;AAEA,kBAAkB;IACd,SAAS;IACT,UAAU;AACd,C","file":"main.css","sourcesContent":["*\n{\n    margin: 0;\n    padding: 0;\n}\n.renderer.domElement\n{\nposition: absolute;\n    margin: 0;\n    padding: 0;\n}"],"sourceRoot":""}
